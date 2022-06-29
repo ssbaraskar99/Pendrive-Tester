@@ -1,5 +1,5 @@
 # Pendrive-Tester
-This tool is designed to test actual capacity of a pendrive.
+This tool is designed to test actual capacity of a pendrive. Some pendrives are fake & report different size than usual to the operating system, this software helps to find actual capacity.
 
 # SCREENSHOTS
 ![](https://github.com/ssbaraskar99/Pendrive-Tester/blob/main/Screenshots/1.PNG?raw=true)
