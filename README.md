@@ -75,9 +75,8 @@ This tool is designed to test actual capacity of a pendrive. Some pendrives are 
 <li><a href="https://github.com/twbs/icons">https://github.com/twbs/icons </a></li>
 <li><strong> License : MIT </strong></li>
 </ul>
-<p>&nbsp;</p>
-<h2><strong>- Thank You !</strong></h2>
 
+<h2><strong>- Thank You !</strong></h2>
 
 # **LICENSE**
 - **Anyone can use this app, for personal use for free.**
