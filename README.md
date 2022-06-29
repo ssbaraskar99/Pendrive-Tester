@@ -24,11 +24,14 @@ This tool is designed to test actual capacity of a pendrive. Some pendrives are 
 </ol>
 <p><strong>REMEMBER&nbsp;</strong><strong>Before starting the test :</strong></p>
 <ol>
-<li>Test may take very long time to complete</li>
+<li>Test may take very long time to complete (depends on device's/drive's writing speed)</li>
 <li>Disable anti-virus</li>
 <li class="a-b-r-La">This app doesn't guarantees higher level of accuracy or successful operation</li>
 </ol>
 <p><strong>How to use :</strong></p>
+
+[Watch Video](https://drive.google.com/file/d/1mYxhjuNwYD8nGYq7hHO9LjOBAgzi-149/view?usp=sharing)
+
 <ol>
 <li>Insert pendrive &amp; format it</li>
 <li>Select the drive from the dropdown box</li>
