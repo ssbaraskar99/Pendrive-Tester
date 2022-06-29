@@ -45,7 +45,9 @@ This tool is designed to test actual capacity of a pendrive. Some pendrives are 
 
 # **ABOUT**
 <p><strong>App Icon &amp; App Designed by : </strong><a href="https://github.com/ssbaraskar99">https://github.com/ssbaraskar99</a></p>
-<p><strong>PRIVACY :</strong></p>
+
+# **PRIVACY**
+
 <ol>
 <li class="a-b-r-La">This application doesn't gathers any data about you, nor sends it to its developer.</li>
 <li class="a-b-r-La">Developer doesn't gather any data about its user.</li>
